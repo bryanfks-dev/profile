@@ -2,7 +2,7 @@
 <h2 align="center">Hi 👋, I'm Bryan Fernando Kurniawan Suhartono</h1><br>
 📖 I’m currently studying at Bina Nusantara University @Malang, majoring in Computer Science<br>
 👨‍💻 All of my projects are available at https://bryanfks.netlify.app/<br>
-🌱 I’m currently learning everything about technologies, specificly anythinf about programming.<br>
+🌱 I’m currently learning everything about technologies, specificly anything about programming.<br>
 
 
 ## 🌐 Socials:
